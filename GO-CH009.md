@@ -16,6 +16,6 @@ The zero value of a pointer is ```nil```
 ```go
 ```
 ## Links
-Previous: [[GO-CH8]]
-Next: [[GO-CH10]]
+Previous: [[GO-CH008]]
+Next: [[GO-CH010]]
 This is a set of notes on #Golang

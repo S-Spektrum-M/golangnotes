@@ -39,6 +39,6 @@ const (
 		3.  Bitshifts
 		
 ## Links
-Previous: [[GO-CH2]]
-Next: [[GO-CH4]]
+Previous: [[GO-CH002]]
+Next: [[GO-CH004]]
 This is a set of notes on #Golang

@@ -1,6 +1,6 @@
 |Name|Use|First Occurrence|
 |-|-|-|
-|```int```|declare an integer|[[GO-CH1]]|
+|```int```|declare an integer|[[GO-CH001]]|
 |```a```|||
 |```a```|||
 |```a```|||

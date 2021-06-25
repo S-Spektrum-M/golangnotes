@@ -17,6 +17,6 @@
 7. Breaking out early
 
 ## Links
-Previous: [[GO-CH5]]
-Next: [[GO-CH7]]
+Previous: [[GO-CH005]]
+Next: [[GO-CH007]]
 This is a set of notes on #Golang

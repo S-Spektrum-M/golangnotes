@@ -93,5 +93,5 @@ Names should be as short as reasonably possible.
 
 ---
 ## Links
-Next: [[GO-CH2]]
+Next: [[GO-CH002]]
 This is a set of notes on #Golang

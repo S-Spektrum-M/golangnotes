@@ -160,6 +160,6 @@ Runes are like strings that store UTF-32 characters.
 
 ---
 ## Links
-Previous: [[GO-CH1]]
-Next: [[GO-CH3]]
+Previous: [[GO-CH001]]
+Next: [[GO-CH003]]
 This is a set of notes on #Golang
