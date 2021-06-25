@@ -34,6 +34,6 @@
 7. 
 
 ## Links
-Previous: [[GO-CH4]]
-Next: [[GO-CH6]]
+Previous: [[GO-CH004]]
+Next: [[GO-CH006]]
 This is a set of notes on #Golang

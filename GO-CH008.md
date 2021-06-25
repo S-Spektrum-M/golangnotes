@@ -62,6 +62,6 @@ Current function will not attempt to continue.
 Higher functions in call stack will.
 
 ## Links
-Previous: [[GO-CH7]]
-Next: [[GO-CH9]]
+Previous: [[GO-CH007]]
+Next: [[GO-CH009]]
 This is a set of notes on #Golang

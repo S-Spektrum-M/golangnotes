@@ -27,6 +27,6 @@
 	8. Copies refer to the same underlying array.
 	
 ## Links
-Previous: [[GO-CH3]]
-Next: [[GO-CH5]]
+Previous: [[GO-CH003]]
+Next: [[GO-CH005]]
 This is a set of notes on #Golang

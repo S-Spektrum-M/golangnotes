@@ -22,6 +22,6 @@
 	```
 
 ## Links
-Previous: [[GO-CH6]]
-Next: [[GO-CH8]]
+Previous: [[GO-CH006]]
+Next: [[GO-CH008]]
 This is a set of notes on #Golang

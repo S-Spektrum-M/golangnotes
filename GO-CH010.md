@@ -157,6 +157,6 @@ func (p person) printDetails() {
 ```
 
 ## Links
-Previous: [[GO-CH9]]
-Next: [[GO-CH11]]
+Previous: [[GO-CH009]]
+Next: [[GO-CH011]]
 This is a set of notes on #Golang
