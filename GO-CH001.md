@@ -7,7 +7,7 @@ Variables are essential to any language. They store data for access later. Go is
 var foo int
 varName = 10
 ```
-The format above follows a system of 
+The format above follows a system of
 ```var varName varType```
 ```varName = value```
 
@@ -15,7 +15,7 @@ This can be truncated to:
 ```go
 var foo int = 10
 ```
-The format above follows a system of 
+The format above follows a system of
 ```var varName varType = value```
 
 However this can be made simpler still using the walrus operator.
