@@ -1,4 +1,4 @@
-# CH 12: Maps and Structs
+# CH 12: Goroutines
 
 ## Links
 Previous: [[GO-CH011]]
