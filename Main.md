@@ -1,5 +1,7 @@
 # Go
-This is a set of notes on #Golang
+A compilation of notes on Golang
+
+These notes are best enjoyed in [Obsidian](https://obsidian.md)
 ## CH 1
 Variables: [[GO-CH001]]
 
